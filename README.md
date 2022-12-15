@@ -1,4 +1,4 @@
-###Responsive Countdown
+# Responsive Countdown
 
 **Countdown Website with an Example**
 
